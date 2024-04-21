@@ -1,7 +1,3 @@
-[![Build Status](https://github.com/yeti-switch/sems-yeti/actions/workflows/build.yml/badge.svg)](https://github.com/yeti-switch/sems-yeti/actions/workflows/build.yml)
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
 
 # sems-yeti
@@ -29,7 +25,7 @@ check [Documentation] for additional versions/distributions info
 
 ### get sources
 ```sh
-$ git clone git@github.com:yeti-switch/sems-yeti.git
+$ git clone https://github.com/linlin2018/sems-yeti.git
 $ cd sems-yeti
 ```
 
